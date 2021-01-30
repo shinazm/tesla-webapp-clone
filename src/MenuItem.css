@@ -4,9 +4,9 @@
     cursor: pointer;
 }
 
-.menuItem > h4{
+.menuItem > h4 {
  font-weight: 500;
- letter-spacing: .5px;
+ letter-spacing: 0.5px;
  text-transform: uppercase;
  padding-bottom: 15px;
  font-size: 15px;
